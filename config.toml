@@ -17,10 +17,11 @@ default_language = "en"
 theme = "sam"
 
 [extra]
-# Put all your custom variables here
 sam_menu = [
     { text = "blog", link = "/blog" },
     { text = "projects", link = "/projects" },
     { text = "github", link = "https://github.com/cdmistman" },
     { text = "about", link = "/about" },
 ]
+show_word_count = false
+show_reading_time = false

@@ -3,8 +3,6 @@ weight = 5
 title = "Colton Donnelly"
 
 [extra]
-hide_word_count = true
-hide_reading_time = true
 no_header = true
 +++
 
