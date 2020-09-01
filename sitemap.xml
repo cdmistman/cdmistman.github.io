@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://cdmistman.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://cdmistman.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://cdmistman.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://cdmistman.github.io/blog/data-collection-human-rights/</loc>
+        <lastmod>2020-05-25</lastmod>
+    </url>
+    <url>
+        <loc>https://cdmistman.github.io/blog/democracy-tech-all-aspects/</loc>
+        <lastmod>2020-05-28</lastmod>
+    </url>
+    <url>
+        <loc>https://cdmistman.github.io/blog/stateof-messaging-rcs/</loc>
+        <lastmod>2019-01-19</lastmod>
+    </url>
+    <url>
+        <loc>https://cdmistman.github.io/blog/stateof-os-fuchsia/</loc>
+        <lastmod>2020-09-01</lastmod>
+    </url>
+    <url>
+        <loc>https://cdmistman.github.io/projects/</loc>
+    </url>
+</urlset>
